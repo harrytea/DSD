@@ -36,9 +36,11 @@ and the DSD model is showed as follow
 ## Train/Test
 
 **train** `python train.py`
+
 **test** `python test.py`
 
 Pretrained Model. Download the model from [BaiduDisk](https://pan.baidu.com/s/10sbMPlWzpv3ws8IGqo8WGA). **Code: zaai**
+
 ResNeXt101 model (put in resnext folder). [BaiduDisk](https://pan.baidu.com/s/1SoCy7Iw3Pi0wcHdHeH54NA). **Code: oka4**
 
 ## Results
