@@ -1,6 +1,7 @@
 # DSD
 
 PyTorch non-official implementation of ["Distraction-aware Shadow Detection, CVPR'19"](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Distraction-Aware_Shadow_Detection_CVPR_2019_paper.pdf)
+
 Author's original page: [GitHub](https://quanlzheng.github.io/projects/Distraction-aware-Shadow-Detection.html)
 
 ## Approach
@@ -51,4 +52,4 @@ We use one GTX 2080Ti to train the DSD on SBU dataset.
 | Methods | BER | Accuracy |
 | --- | --- | --- |
 | DSD (paper) | 3.45 | - |
-| DSC (Our) | **3.39** | 0.96 |
+| DSD (Our) | **3.39** | 0.96 |
